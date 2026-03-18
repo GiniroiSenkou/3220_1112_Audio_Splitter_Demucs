@@ -1,6 +1,6 @@
 # Demucs Stem Splitter
 
-A GUI app that splits audio tracks into stems (vocals, drums, bass, other) using [Demucs](https://github.com/facebookresearch/demucs) and converts them to your preferred format.
+A GUI app that splits audio tracks into stems (vocals, drums, bass, other) using [Demucs](https://github.com/facebookresearch/demucs) and converts them to your preferred format. 
 
 ## Features
 
@@ -58,8 +58,6 @@ Edit `config.json` with your preferred directories and settings:
     "presets": {}
 }
 ```
-
-This file is gitignored so your personal paths stay private.
 
 ### 4. Run
 
