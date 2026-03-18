@@ -1,0 +1,3 @@
+demucs
+PyQt6
+PyQt6-Multimedia

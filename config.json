@@ -1,0 +1,19 @@
+{
+    "default_input_dir": "/path/to/your/music",
+    "default_output_dir": "/path/to/your/stems",
+    "theme": "dark",
+    "use_gpu": true,
+    "output_format": "flac",
+    "presets": {
+        "Vocal Extract": {
+            "model": "mdx_extra_q",
+            "format": "flac",
+            "use_gpu": true
+        },
+        "Quick Test": {
+            "model": "mdx",
+            "format": "mp3",
+            "use_gpu": false
+        }
+    }
+}
